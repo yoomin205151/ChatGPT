@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ChatGpt.Integration.props" />
+</Project>
